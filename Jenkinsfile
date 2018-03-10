@@ -3,3 +3,4 @@ library identifier: 'shared-lib@master', retriever: modernSCM( [$class: 'GitSCMS
 log.info 'Starting'
 def config = defaultConfig()
 command (config, 'pwd')
+
