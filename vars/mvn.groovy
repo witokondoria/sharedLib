@@ -1,4 +1,5 @@
 def call() {
+ echo "${this.inspect()}"
  echo "defaut method"
 }
 
