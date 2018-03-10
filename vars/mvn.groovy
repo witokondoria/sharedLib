@@ -11,5 +11,3 @@ withEnv(["PATH+MAVEN=${tool name:'3.5.2',type:'maven'}/bin","JAVA_HOME=/usr/lib/
 }
 
 //archive "**/*.hpi"
-}
-}
